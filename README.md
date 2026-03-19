@@ -28,6 +28,21 @@ Interactive Sales Analytics Dashboard (Excel Project)
 9.	Which region has the lowest performance?
 10.	What is the sales distribution across regions (North, South, West)?
 
+## 📊 Project Workflow (Summary)
+1.	Collected raw sales data.
+2.	Cleaned data by removing duplicates and fixing errors.
+3.	Handled missing values and standardized formats.
+4.	Created helper columns for analysis.
+5.	Converted data into Excel Tables.
+6.	Analyzed data using Pivot Tables.
+7.	Created charts for visualization.
+8.	Designed an interactive dashboard layout.
+9.	Added slicers for dynamic filtering.
+10.	Optimized dashboard performance and readability.
+11.	Validated results with source data.
+12.	Tested dashboard functionality.
+13.	Finalized project and uploaded to GitHub.
+
 ## 🧩 Dashboard Features
 ### 📅 Monthly Navigation
 1.	Interactive month selection buttons (Jan–Dec)
