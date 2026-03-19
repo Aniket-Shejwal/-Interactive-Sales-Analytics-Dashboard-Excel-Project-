@@ -87,16 +87,17 @@ c)	West regions
 #### 2)	Includes error bars for analytical interpretation
 
 ## 🛠️ Tools & Technologies Used
-### 1)	Microsoft Excel
-#### a)	Data Cleaning 
-#### b)	Pivot Tables
-#### c)	Pivot Charts
-#### d)	Data Visualization
-#### e)	Conditional Formatting
-#### f)	Shapes & UI Design
-#### g)	Dashboard Layout Design
-### 2)	Data Cleaning & Structuring Techniques
-### 3)	Business Analytics Concepts
+1)	Microsoft Excel
+I.	Data Cleaning 
+II.	Pivot Tables
+III.	Pivot Charts
+IV.	Data Visualization
+V.	Conditional Formatting
+VI.	Shapes & UI Design
+VII.	Dashboard Layout Design
+2)	Data Cleaning & Structuring Techniques
+3)	Business Analytics Concepts
+
 
 
 
