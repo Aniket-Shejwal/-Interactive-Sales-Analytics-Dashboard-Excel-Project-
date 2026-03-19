@@ -6,6 +6,7 @@ Interactive Sales Analytics Dashboard (Excel Project)
 - <a href="https://github.com/Aniket-Shejwal/-Interactive-Sales-Analytics-Dashboard-Excel-Project-/blob/main/final%20project.xlsm">Dataset</a>
 
 ## Dashboard
+- <a href="https://github.com/Aniket-Shejwal/-Interactive-Sales-Analytics-Dashboard-Excel-Project-/blob/main/Screenshot%202026-03-19%20105317.png">Dataset</a>
 
 
 ## 🚀 Project Overview
