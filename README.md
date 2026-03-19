@@ -66,7 +66,7 @@ a)	North
 b)	South
 c)	West regions
 #### 2)	Includes error bars for analytical interpretation
-________________________________________
+
 ## 🛠️ Tools & Technologies Used
 ### 1)	Microsoft Excel
 a)	Data Cleaning 
@@ -76,8 +76,8 @@ d)	Data Visualization
 e)	Conditional Formatting
 f)	Shapes & UI Design
 g)	Dashboard Layout Design
-2)	Data Cleaning & Structuring Techniques
-3)	Business Analytics Concepts
+### 2)	Data Cleaning & Structuring Techniques
+### 3)	Business Analytics Concepts
 
 
 
