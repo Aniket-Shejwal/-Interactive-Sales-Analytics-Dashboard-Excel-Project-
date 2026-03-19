@@ -43,6 +43,10 @@ Interactive Sales Analytics Dashboard (Excel Project)
 12.	Tested dashboard functionality.
 13.	Finalized project and uploaded to GitHub.
 
+## 🧩 Dashboard:
+<img width="1463" height="674" alt="Screenshot 2026-03-19 105317" src="https://github.com/user-attachments/assets/ea90c100-3d92-465e-bb19-dc5623b04d7d" />
+
+
 ## 🧩 Dashboard Features
 ### 📅 Monthly Navigation
 1.	Interactive month selection buttons (Jan–Dec)
